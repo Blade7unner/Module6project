@@ -16,7 +16,7 @@
     background-color: rgb(70, 186, 99);
 }
 
- #searchButton textarea{
+ #searchButton {
     color: black;
 }
 
@@ -31,3 +31,4 @@ h1 {
     font-size: 1.5em;
     line-height: 1.5;
   }
+
